@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hdevelop file_version="1.1" halcon_version="12.0">
+<procedure name="main">
+<interface/>
+<body>
+<c>*读取图像</c>
+<l>read_image (Image, 'img.png')</l>
+<c>*创建二维码解码模型</c>
+<l>create_data_code_2d_model ('QR Code', [], [], DataCodeHandle)</l>
+<c>*解析二维码</c>
+<l>find_data_code_2d (Image, SymbolXLDs, DataCodeHandle, [], [], ResultHandles, DecodedDataStrings)</l>
+<c>*清除模型</c>
+<l>clear_data_code_2d_model (DataCodeHandle)</l>
+<c></c>
+</body>
+<docu id="main">
+<parameters/>
+</docu>
+</procedure>
+</hdevelop>

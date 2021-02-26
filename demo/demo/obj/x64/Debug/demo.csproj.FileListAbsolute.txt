@@ -1,0 +1,13 @@
+C:\Users\Lizhifun\Desktop\Temp Files\demo\demo\demo\bin\x64\Debug\demo.exe.config
+C:\Users\Lizhifun\Desktop\Temp Files\demo\demo\demo\bin\x64\Debug\demo.exe
+C:\Users\Lizhifun\Desktop\Temp Files\demo\demo\demo\bin\x64\Debug\demo.pdb
+C:\Users\Lizhifun\Desktop\Temp Files\demo\demo\demo\bin\x64\Debug\halcondotnet.dll
+C:\Users\Lizhifun\Desktop\Temp Files\demo\demo\demo\bin\x64\Debug\halcondotnet.xml
+C:\Users\Lizhifun\Desktop\Temp Files\demo\demo\demo\obj\x64\Debug\demo.csprojAssemblyReference.cache
+C:\Users\Lizhifun\Desktop\Temp Files\demo\demo\demo\obj\x64\Debug\demo.Form1.resources
+C:\Users\Lizhifun\Desktop\Temp Files\demo\demo\demo\obj\x64\Debug\demo.Properties.Resources.resources
+C:\Users\Lizhifun\Desktop\Temp Files\demo\demo\demo\obj\x64\Debug\demo.csproj.GenerateResource.cache
+C:\Users\Lizhifun\Desktop\Temp Files\demo\demo\demo\obj\x64\Debug\demo.csproj.CoreCompileInputs.cache
+C:\Users\Lizhifun\Desktop\Temp Files\demo\demo\demo\obj\x64\Debug\demo.csproj.CopyComplete
+C:\Users\Lizhifun\Desktop\Temp Files\demo\demo\demo\obj\x64\Debug\demo.exe
+C:\Users\Lizhifun\Desktop\Temp Files\demo\demo\demo\obj\x64\Debug\demo.pdb
